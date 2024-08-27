@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Adesaanu</h1>
-<h3 align="center">I am passionate Mental health Nurse exploring the cyber world</h3>
+<h1 align="center">Hi 👋, I'm Adesaanu Mujeeb A</h1>
+<h3 align="center">A passionate Mental Health and Psychiatric Nurse exploring the digital world</h3>
 
-- 🌱 I’m currently learning **Cyber security**
+- 🌱 I’m currently learning **cybersecurity**
 
-- 📫 How to reach me **adesaanuabdulmujeeb@gmail.com**
+- 💬 Ask me about **Mental health and Psychiatry**
+
+- 📫 How to reach me **Adesaanuabdulmujeeb@gmail.com,+2348104576677**
+
+- ⚡ Fun fact **I am a resource person who is always interested in learning new thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
